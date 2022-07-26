@@ -13,20 +13,16 @@ Generates Password based on user criteria:
 
 Password Generator
 
+Deployed wesbite: https://jamesdartmouth.github.io/challenge-3-javascript/
+Github website: https://github.com/JamesDartmouth/challenge-3-javascript
+
 ## Installation
     None
 ## Usage
 
 Screentshot:
 
-```md
-![alt text]
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+[Screenshot](/assets/Screenshot%20Password%20Generator.png)
 
 ## Credits
 
